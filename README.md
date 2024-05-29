@@ -167,3 +167,9 @@ Si queremos ver mas detalle de lo que ocurre en los test:
 Para probar haciendo un fork 
 
 `forge test --fork-url <ruta_RPC_proveedor>`
+
+Saber el costo de gas de un test 
+
+`forge snapshot --mt <nombre_del_test>`
+
+crea un archivo en la raiz, llamado `.gas-snapshot`
