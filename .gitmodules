@@ -10,3 +10,9 @@
 [submodule "foundry-fund-me-f23/lib/foundry-devops"]
 	path = foundry-fund-me-f23/lib/foundry-devops
 	url = https://github.com/Cyfrin/foundry-devops
+[submodule "foundry-smart-contract-lottery/lib/chainlink-brownie-contracts"]
+	path = foundry-smart-contract-lottery/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "foundry-smart-contract-lottery/lib/foundry-devops"]
+	path = foundry-smart-contract-lottery/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
