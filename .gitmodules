@@ -1,0 +1,9 @@
+[submodule "foundry-nft-cu/lib/openzeppelin-contracts"]
+	path = foundry-nft-cu/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "foundry-nft-cu/lib/forge-std"]
+	path = foundry-nft-cu/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-nft-cu/lib/foundry-devops"]
+	path = foundry-nft-cu/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
